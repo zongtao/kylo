@@ -155,7 +155,7 @@
     <!-- The maria db driver version is references in the post-install.sh file. Manually update it there if you change it here.  -->
     <mariadb.version>1.5.7</mariadb.version>
     <nifi.version>1.0.0</nifi.version>
-    <nifi.version.override>1.12.1</nifi.version.override>
+    <nifi.version.override>1.6.0</nifi.version.override>
     <powermock.version>1.6.3</powermock.version>
     <quartz.version>2.2.1</quartz.version>
     <slf4j.version>1.7.12</slf4j.version>
